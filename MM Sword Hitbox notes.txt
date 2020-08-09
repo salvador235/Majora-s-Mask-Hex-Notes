@@ -1,0 +1,18 @@
+Sword hitbox for MM
+
+Prototype Debug Pal E
+DE838C 453B80
+
+DE838C- DE839A
+
+DE83A0 451C ?
+
+EB4F70- idk what this does
+
+DE83D4- 453B ?
+
+DE83E0- 453B ?
+
+1.0 U
+C572BC 453B80
+C572BC-C572CA
