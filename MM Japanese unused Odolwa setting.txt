@@ -1,0 +1,4 @@
+Found it! The scene is located at 0x22FE7B0 and the room at 0x2304270 (uncompressed JPN v1.0 ROM) 
+For the uncompressed JPN v1.1 ROM, the scene is located at 0x22FF7B0 and the room at 0x2305270
+It seems you're right, this seems to be only present in both Japanese versions
+Thanks
